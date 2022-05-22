@@ -28,6 +28,10 @@ The end result was produced through the use of hand-crafted geometry aid classes
 
 ## Results
 
+As of first iteration on base:
+![](iter2.png)
+
+As of last (fifth) iteration:
 ![](result.png)
 ![](fractal.gif)
 
